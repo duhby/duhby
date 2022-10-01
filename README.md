@@ -7,7 +7,7 @@
 </a>
 <br>
 <samp>
-  I'm dubs, also known as duhby, and I'm a developer that is addicted to coding. I main Python but I also play around with some Java and JavaScript. My aesthetically pleasing and visually stunning website can be found <a href='https://dubs.rip'>here</a>, I also have another one right <a href='https://dubs.club'>here</a>, and my discord is dubs#0001.
+  I'm dubs, also known as duhby, and I'm a developer that codes stuff. I main Python and hardly know any other languages atm. My aesthetically pleasing website can be found <a href='https://dubs.rip'>here</a>. My discord is dubs#3080.
 </samp>
 <br><br>
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duhby&theme=tokyonight'> -->
