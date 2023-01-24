@@ -12,3 +12,5 @@
 <br><br>
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duhby&theme=tokyonight'> -->
 <img src='https://github-readme-stats.vercel.app/api?username=duhby&count_private=true&theme=tokyonight&show_icons=true'>
+<p><i>This profile is part of the [<a href="https://octo-ring.com/">GitHub Octo Ring</a>]</i></p>  
+<p><i>[<a href=https://octo-ring.com/p/duhby/prev>Previous</a>] / [<a href=https://octo-ring.com/p/duhby/random>Random</a>] / [<a href=https://octo-ring.com/p/duhby/next>Next</a>]
