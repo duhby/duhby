@@ -7,7 +7,7 @@
 </a>
 <br>
 <samp>
-  I'm dubs, also known as duhby, and I'm a developer that programs things like discord bots, python libraries, and beat saber mods. I mostly use Python, but I also know some c#, JavaScript, HTML, and CSS. My website can be found <a href='https://dubs.rip'>here</a>. My discord is @duhby.
+  I'm Josh, also known as duhby, and I'm a computer science student that creates things like discord bots, python libraries, and ~beat saber mods~. I mostly use Python, but I also know some c#, Java, JavaScript, HTML, and CSS. My website can be found <a href='https://dubs.rip'>here</a>. My discord is @duhby.
 </samp>
 <br><br>
 <picture>
