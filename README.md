@@ -7,7 +7,7 @@
 </a>
 <br>
 <samp>
-  I'm Josh, also known as duhby, and I'm a computer science student that creates things like discord bots and python libraries. I mostly use Python, but I also know Rust, c#, c++, Java, JavaScript/TypeScript, HTML, and CSS. My website can be found <a href='https://duhby.dev'>here</a>. My discord is @duhby.
+  I'm Josh, and I'm a computer science student and full-stack developer. I mostly use Rust, Python, and TypeScript, but I've also used C, C++, and Java.
 </samp>
 <br><br>
 <picture>
